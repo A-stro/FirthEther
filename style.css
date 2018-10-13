@@ -418,19 +418,19 @@ li p, .art-postcontent li p, .art-blockcontent li p
 .art-nav
 {
    background: #557920;
-   background: -webkit-linear-gradient(top, #6C9929 0, #3F5918 100%) no-repeat;
-   background: -moz-linear-gradient(top, #6C9929 0, #3F5918 100%) no-repeat;
-   background: -o-linear-gradient(top, #6C9929 0, #3F5918 100%) no-repeat;
-   background: -ms-linear-gradient(top, #6C9929 0, #3F5918 100%) no-repeat;
-   -svg-background: linear-gradient(top, #6C9929 0, #3F5918 100%) no-repeat;
-   background: linear-gradient(to bottom, #6C9929 0, #3F5918 100%) no-repeat;
+   background: -webkit-linear-gradient(top, #3F5918 0, #557920 20%, #557920 80%, #3F5918 100%) no-repeat;
+   background: -moz-linear-gradient(top, #3F5918 0, #557920 20%, #557920 80%, #3F5918 100%) no-repeat;
+   background: -o-linear-gradient(top, #3F5918 0, #557920 20%, #557920 80%, #3F5918 100%) no-repeat;
+   background: -ms-linear-gradient(top, #3F5918 0, #557920 20%, #557920 80%, #3F5918 100%) no-repeat;
+   -svg-background: linear-gradient(top, #3F5918 0, #557920 20%, #557920 80%, #3F5918 100%) no-repeat;
+   background: linear-gradient(to bottom, #3F5918 0, #557920 20%, #557920 80%, #3F5918 100%) no-repeat;
    -webkit-border-radius:7px;
    -moz-border-radius:7px;
    border-radius:7px;
    -webkit-box-shadow:0 0 3px 2px rgba(0, 0, 0, 0.15);
    -moz-box-shadow:0 0 3px 2px rgba(0, 0, 0, 0.15);
    box-shadow:0 0 3px 2px rgba(0, 0, 0, 0.15);
-   padding:6px;
+   padding:3px;
    margin:-23px auto 0;
    position: relative;
    z-index: 499;
@@ -504,8 +504,8 @@ ul.art-hmenu
 
 .desktop .art-nav{
    width: 900px;
-   padding-left: 6px;
-   padding-right: 6px;
+   padding-left: 3px;
+   padding-right: 3px;
 }
 
 .art-hmenu-extra1
@@ -544,19 +544,19 @@ ul.art-hmenu>li:last-child, ul.art-hmenu>li.last-child {
 
 ul.art-hmenu>li>a
 {
-   -webkit-border-radius:3px;
-   -moz-border-radius:3px;
-   border-radius:3px;
+   -webkit-border-radius:11px;
+   -moz-border-radius:11px;
+   border-radius:11px;
    border:1px solid transparent;
-   padding:0 17px;
+   padding:0 12px;
    margin:0 auto;
    position: relative;
    display: block;
-   height: 39px;
+   height: 37px;
    cursor: pointer;
    text-decoration: none;
    color: #C2E292;
-   line-height: 39px;
+   line-height: 37px;
    text-align: center;
 }
 
@@ -573,17 +573,11 @@ ul.art-hmenu>li>a
 ul.art-hmenu>li>a.active
 {
    background: #32352C;
-   background: -webkit-linear-gradient(top, #4A4F40 0, #1D1F19 100%) no-repeat;
-   background: -moz-linear-gradient(top, #4A4F40 0, #1D1F19 100%) no-repeat;
-   background: -o-linear-gradient(top, #4A4F40 0, #1D1F19 100%) no-repeat;
-   background: -ms-linear-gradient(top, #4A4F40 0, #1D1F19 100%) no-repeat;
-   -svg-background: linear-gradient(top, #4A4F40 0, #1D1F19 100%) no-repeat;
-   background: linear-gradient(to bottom, #4A4F40 0, #1D1F19 100%) no-repeat;
-   -webkit-border-radius:3px;
-   -moz-border-radius:3px;
-   border-radius:3px;
+   -webkit-border-radius:11px;
+   -moz-border-radius:11px;
+   border-radius:11px;
    border:1px solid #4F5445;
-   padding:0 17px;
+   padding:0 12px;
    margin:0 auto;
    color: #A5B195;
 }
@@ -591,17 +585,11 @@ ul.art-hmenu>li>a.active
 ul.art-hmenu>li>a:hover, .desktop ul.art-hmenu>li:hover>a
 {
    background: #97CE46;
-   background: -webkit-linear-gradient(top, #A7D562 0, #8EC936 79%, #86BD32 100%) no-repeat;
-   background: -moz-linear-gradient(top, #A7D562 0, #8EC936 79%, #86BD32 100%) no-repeat;
-   background: -o-linear-gradient(top, #A7D562 0, #8EC936 79%, #86BD32 100%) no-repeat;
-   background: -ms-linear-gradient(top, #A7D562 0, #8EC936 79%, #86BD32 100%) no-repeat;
-   -svg-background: linear-gradient(top, #A7D562 0, #8EC936 79%, #86BD32 100%) no-repeat;
-   background: linear-gradient(to bottom, #A7D562 0, #8EC936 79%, #86BD32 100%) no-repeat;
-   -webkit-border-radius:3px;
-   -moz-border-radius:3px;
-   border-radius:3px;
+   -webkit-border-radius:11px;
+   -moz-border-radius:11px;
+   border-radius:11px;
    border:1px solid #6C735E;
-   padding:0 17px;
+   padding:0 12px;
    margin:0 auto;
 }
 ul.art-hmenu>li>a:hover, 
@@ -617,7 +605,7 @@ ul.art-hmenu>li:before
    top:0;
    left:  -9px;
    width:9px;
-   height: 39px;
+   height: 37px;
    background: url('images/menuseparator.png') center center no-repeat;
 }
 ul.art-hmenu>li:first-child:before{
@@ -628,18 +616,18 @@ ul.art-hmenu li li a
 {
    background: #69705C;
    background: transparent;
-   -webkit-border-radius:4px;
-   -moz-border-radius:4px;
-   border-radius:4px;
-   padding:0 22px;
+   -webkit-border-radius:11px;
+   -moz-border-radius:11px;
+   border-radius:11px;
+   padding:0 8px;
    margin:0 auto;
 }
 ul.art-hmenu li li 
 {
    float: none;
    width: auto;
-   margin-top: 1px;
-   margin-bottom: 1px;
+   margin-top: 0;
+   margin-bottom: 0;
 }
 
 .desktop ul.art-hmenu li li ul>li:first-child 
@@ -685,9 +673,9 @@ ul.art-hmenu li li ul>li:last-child
 ul.art-hmenu ul li a:hover, .desktop ul.art-hmenu ul li:hover>a
 {
    background: #B0DA72;
-   -webkit-border-radius:4px;
-   -moz-border-radius:4px;
-   border-radius:4px;
+   -webkit-border-radius:11px;
+   -moz-border-radius:11px;
+   border-radius:11px;
    margin:0 auto;
 }
 .art-hmenu ul a:hover
@@ -703,9 +691,9 @@ ul.art-hmenu ul li a:hover, .desktop ul.art-hmenu ul li:hover>a
 ul.art-hmenu ul:before
 {
    background: #4F5445;
-   -webkit-border-radius:4px;
-   -moz-border-radius:4px;
-   border-radius:4px;
+   -webkit-border-radius:11px;
+   -moz-border-radius:11px;
+   border-radius:11px;
    border:1px solid #A4AA97;
    margin:0 auto;
    display: block;
@@ -734,14 +722,14 @@ ul.art-hmenu ul
 
 .desktop ul.art-hmenu>li>ul
 {
-   padding: 16px 36px 36px 36px;
+   padding: 12px 32px 32px 32px;
    margin: -10px 0 0 -30px;
 }
 
 .desktop ul.art-hmenu ul ul
 {
-   padding: 36px 36px 36px 18px;
-   margin: -36px 0 0 -5px;
+   padding: 32px 32px 32px 14px;
+   margin: -32px 0 0 -9px;
 }
 
 .desktop ul.art-hmenu ul.art-hmenu-left-to-right 
@@ -771,16 +759,16 @@ ul.art-hmenu ul
 {
    right: auto;
    left: 0;
-   padding: 36px 36px 36px 18px;
-   margin: -36px 0 0 -5px;
+   padding: 32px 32px 32px 14px;
+   margin: -32px 0 0 -9px;
 }
 
 .desktop ul.art-hmenu ul ul.art-hmenu-right-to-left
 {
    left: auto;
    right: 0;
-   padding: 36px 18px 36px 36px;
-   margin: -36px -5px 0 0;
+   padding: 32px 14px 32px 32px;
+   margin: -32px -9px 0 0;
 }
 
 .desktop ul.art-hmenu li ul>li:first-child {
@@ -792,7 +780,7 @@ ul.art-hmenu ul
 
 .desktop ul.art-hmenu ul ul:before
 {
-   border-radius: 4px;
+   border-radius: 11px;
    top: 30px;
    bottom: 30px;
    right: 30px;

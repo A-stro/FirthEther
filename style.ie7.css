@@ -51,7 +51,7 @@ ul.art-hmenu>li>span.art-hmenu-separator
    top:0;
    left:  -9px;
    width: 9px;
-   height: 39px;
+   height: 37px;
    background: url('images/menuseparator.png') center center no-repeat;
 }
 ul.art-hmenu>li:first-child>span.art-hmenu-separator
