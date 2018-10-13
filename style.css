@@ -103,26 +103,26 @@ ul.art-vmenu a
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #D2EAAE;
+   color: #E2F1CB;
 }
 
 .art-postcontent a:visited, .art-postcontent a.visited
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #CDD4C4;
+   color: #DFE3D9;
 }
 
 .art-postcontent  a:hover, .art-postcontent a.hover
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #EFF8E3;
+   color: #FDFEFB;
 }
 
 .art-postcontent h1
 {
-   color: #D2EAAE;
+   color: #E2F1CB;
    font-size: 32px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -141,7 +141,7 @@ ul.art-vmenu a
 
 .art-postcontent h2
 {
-   color: #D2EAAE;
+   color: #E2F1CB;
    font-size: 24px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -160,7 +160,7 @@ ul.art-vmenu a
 
 .art-postcontent h3
 {
-   color: #CDD4C4;
+   color: #DFE3D9;
    font-size: 16px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -179,7 +179,7 @@ ul.art-vmenu a
 
 .art-postcontent h4
 {
-   color: #D4EBB2;
+   color: #CDE7A6;
    font-size: 16px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -198,7 +198,7 @@ ul.art-vmenu a
 
 .art-postcontent h5
 {
-   color: #D4EBB2;
+   color: #CDE7A6;
    font-size: 13px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -217,7 +217,7 @@ ul.art-vmenu a
 
 .art-postcontent h6
 {
-   color: #1F2C0C;
+   color: #C7E49A;
    font-size: 11px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -281,7 +281,7 @@ body
    padding: 0;
    margin:0;
    min-width: 900px;
-   color: #D0D3CA;
+   color: #C9CDC1;
 }
 
 .art-header:after, 
@@ -886,7 +886,7 @@ div.art-block img
 .art-blockheader .t a:visited, 
 .art-blockheader .t a:hover
 {
-   color: #C8CFBE;
+   color: #BEC7B3;
    font-size: 14px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    margin: 0 10px;
@@ -896,7 +896,7 @@ div.art-block img
 {
    padding:3px;
    margin:0 auto;
-   color: #D4EBB2;
+   color: #CDE7A6;
    font-size: 13px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
@@ -907,27 +907,27 @@ div.art-block img
 .art-blockcontent a:visited,
 .art-blockcontent a:hover
 {
-   color: #D4EBB2;
+   color: #CDE7A6;
    font-size: 13px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
 
 .art-blockcontent a, .art-blockcontent a:link
 {
-   color: #D2EAAE;
+   color: #E2F1CB;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
 
 .art-blockcontent a:visited, .art-blockcontent a.visited
 {
-   color: #EEF0EA;
+   color: #FDFDFC;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
 }
 
 .art-blockcontent a:hover, .art-blockcontent a.hover
 {
-   color: #E2F1CB;
+   color: #EFF8E3;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
 }
@@ -954,7 +954,7 @@ div.art-block img
    font-size: 13px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    line-height: 125%;
-   color: #C9CDC1;
+   color: #BFC3B6;
 }
 
 .art-block ul>li, .art-block ol
@@ -1217,7 +1217,7 @@ label.art-checkbox
    font-style: normal;
    line-height: 16px;
    display: inline-block;
-   color: #D4EBB2 !important;
+   color: #CDE7A6 !important;
 }
 
 .art-checkbox>input[type="checkbox"]
@@ -1271,7 +1271,7 @@ label.art-radiobutton
    font-style: normal;
    line-height: 12px;
    display: inline-block;
-   color: #D4EBB2 !important;
+   color: #CDE7A6 !important;
 }
 
 .art-radiobutton>input[type="radio"]
@@ -1315,7 +1315,7 @@ label.art-radiobutton.hovered:before
 
 .art-comments h2
 {
-   color: #D0D3CA;
+   color: #C9CDC1;
 }
 
 .art-comment-inner
@@ -1348,7 +1348,7 @@ label.art-radiobutton.hovered:before
 .art-comment-content
 {
    padding:10px 0;
-   color: #D0D3CA;
+   color: #C9CDC1;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 }
 
@@ -1364,7 +1364,7 @@ label.art-radiobutton.hovered:before
 
 .art-comment-header
 {
-   color: #D0D3CA;
+   color: #C9CDC1;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    line-height: 100%;
 }
@@ -1383,19 +1383,19 @@ label.art-radiobutton.hovered:before
 .art-comment-header a, .art-comment-header a:link
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #E6F3D3;
+   color: #E2F1CB;
 }
 
 .art-comment-header a:visited, .art-comment-header a.visited
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #E4E7DF;
+   color: #DFE3D9;
 }
 
 .art-comment-header a:hover,  .art-comment-header a.hovered
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #F6FBEF;
+   color: #F4FAEB;
 }
 
 .art-comment-content a, 
@@ -1411,19 +1411,19 @@ label.art-radiobutton.hovered:before
 .art-comment-content a, .art-comment-content a:link
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #E6F3D3;
+   color: #E2F1CB;
 }
 
 .art-comment-content a:visited, .art-comment-content a.visited
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #E4E7DF;
+   color: #DFE3D9;
 }
 
 .art-comment-content a:hover,  .art-comment-content a.hovered
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #F6FBEF;
+   color: #F4FAEB;
 }
 
 .art-pager
@@ -1560,13 +1560,13 @@ label.art-radiobutton.hovered:before
    padding:10px;
    margin:0 auto;
    margin-top:25px;
-   color: #D0D3CA;
+   color: #C9CDC1;
 }
 
 .art-commentsform h2{
    padding-bottom:10px;
    margin: 0;
-   color: #D0D3CA;
+   color: #C9CDC1;
 }
 
 .art-commentsform label {
@@ -1589,7 +1589,7 @@ label.art-radiobutton.hovered:before
 .art-post
 {
    background: #899178;
-   background: rgba(137, 145, 120, 0.67);
+   background: rgba(137, 145, 120, 0.4);
    -webkit-border-radius:6px;
    -moz-border-radius:6px;
    border-radius:6px;
@@ -1701,7 +1701,7 @@ pre
 
 .art-postheader
 {
-   color: #E4F2CF;
+   color: #E2F1CB;
    margin: 10px 0 0;
    font-size: 24px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
@@ -1723,7 +1723,7 @@ pre
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #DDEFC3;
+   color: #D9EDBB;
 }
 
 .art-postheader a:visited, .art-postheader a.visited
@@ -1731,7 +1731,7 @@ pre
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #DADED3;
+   color: #D5DACD;
 }
 
 .art-postheader a:hover,  .art-postheader a.hovered
@@ -1739,7 +1739,7 @@ pre
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #FAFDF7;
+   color: #F6FBEF;
 }
 
 .art-postheadericons,
@@ -1749,7 +1749,7 @@ pre
 .art-postheadericons a:hover
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #EBEDE9;
+   color: #E9EAE6;
 }
 
 .art-postheadericons
@@ -1762,7 +1762,7 @@ pre
 {
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #C7E49A;
+   color: #D6ECB6;
 }
 
 .art-postheadericons a:visited, .art-postheadericons a.visited
@@ -1771,7 +1771,7 @@ pre
    font-weight: normal;
    font-style: italic;
    text-decoration: none;
-   color: #C7E49A;
+   color: #D6ECB6;
 }
 
 .art-postheadericons a:hover, .art-postheadericons a.hover
@@ -1780,7 +1780,7 @@ pre
    font-weight: normal;
    font-style: italic;
    text-decoration: underline;
-   color: #10110E;
+   color: #B5BAAB;
 }
 
 .art-postdateicon:before
@@ -1872,7 +1872,7 @@ pre
 {
    font-size: 13px;
    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
-   color: #D0D3CA;
+   color: #C9CDC1;
    margin: 0 0 0 26px;
 }
 
